@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @shobhitprakash789
+-    curruntly in 3rd year (Computer Engineering / Netaji Subhas University of Technology, New Delhi, India
+- 👀 I’m interested in application devlopment, game development
+- 🌱 I’m currently learning c++, python, javascript, c#
+- 💞️ I’m looking to collaborate on ...(standby)
+- 📫 How to reach me s.p.maharaj789@gmail.com
