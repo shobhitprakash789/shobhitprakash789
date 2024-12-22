@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @shobhitprakash789
--    curruntly in 4rd year (Computer Engineering / Netaji Subhas University of Technology, New Delhi, India
-- 🌱 I’m currently learning python, data analysis
-- 📫 How to reach me s.p.maharaj789@gmail.com
+
